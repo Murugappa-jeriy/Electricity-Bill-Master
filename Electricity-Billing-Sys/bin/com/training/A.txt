@@ -1,0 +1,10 @@
+Issue running these java files
+
+1.CalculateBill - trying to add a 'null' component to the frame. Means not initializing value or anything
+to the declared component but trying to add it to the frame.
+
+what is ResultSet.getString();
+,, ,, ResultSet.next();
+what is Random class or constructor
+How does we link it to 'Paytm' and check the udemy source project for 'Paytm'
+Create the tables that are required and link them to the relevant java files.
